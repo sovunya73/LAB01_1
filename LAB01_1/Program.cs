@@ -13,6 +13,7 @@
             Console.WriteLine($"a - b = {a - b}");
             Console.WriteLine($"a * b = {a * b}");
             Console.WriteLine($"((a + b) / 2) = {((a + b) / 2)}");
+            Console.WriteLine($"((a + b) / 2) = {((a + b) / 2)}");
         }
     }
 }
