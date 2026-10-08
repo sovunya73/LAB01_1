@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Type in first number:");
-            int a = int.Parse(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
             Console.WriteLine("Type in second number:");
-            int b = int.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
 
             Console.WriteLine($"a + b = {a + b}");
             Console.WriteLine($"a - b = {a - b}");
